@@ -1,16 +1,55 @@
 @page "/gestantes"
 
 
-
 <PageTitle>Gestantes</PageTitle>
 
 <h1>Gestantes</h1>
 
-Welcome to your new app.
+<RadzenDataGrid Data="@personas" TItem="Persona" ColumnWidth="200px">
+    <Columns>
+        <RadzenDataGridColumn TItem="Persona" Property="CMF" Title="CMF" />
+        <RadzenDataGridColumn TItem="Persona" Property="Nombre" Title="Nombre" />
+        <RadzenDataGridColumn TItem="Persona" Property="Edad" Title="Edad" />
+        <RadzenDataGridColumn TItem="Persona" Property="CI" Title="CI" />
+        <RadzenDataGridColumn TItem="Persona" Property="Adress" Title="Dieccion Particular" />
+        <RadzenDataGridColumn TItem="Persona" Property="Raza" Title="Raza" />
+        <RadzenDataGridColumn TItem="Persona" Property="TG" Title="Tiempo Gestacional" />
+        <RadzenDataGridColumn TItem="Persona" Property="Telefono" Title="Teléfono" />
+        <RadzenDataGridColumn TItem="Persona" Property="APP" Title="Antecedentes Patologicos Personales" />
+        <RadzenDataGridColumn TItem="Persona" Property="DtosRelev" Title="Datos Relevantes" />
+        <RadzenDataGridColumn TItem="Persona" Property="FUM" Title="Fecha de ultima menstruacion" />
+        <RadzenDataGridColumn TItem="Persona" Property="Gestaciones" Title="Gestaciones" />
+        <RadzenDataGridColumn TItem="Persona" Property="Partos" Title="Partos" />
+        <RadzenDataGridColumn TItem="Persona" Property="Abortos" Title="Abortos" />
+        <RadzenDataGridColumn TItem="Persona" Property="Cesareas" Title="Cesareas" />
+    </Columns>
+</RadzenDataGrid>
 
-<br>
+@code {
+    public class Persona
+    {
+        public string CMF { get; set; }
+        public string Nombre { get; set; }
+        public string Edad { get; set; }
+        public string CI { get; set; }
+        public string Adress { get; set; }
+        public string Raza { get; set; }
+        public string TG { get; set; }
+        public string Telefono { get; set; }
+        public string APP { get; set; }
+        public string DtosRelev { get; set; }
+        public string FUM { get; set; }
+        public string Gestaciones { get; set; }
+         public string Partos { get; set; }
+        public string Abortos { get; set; }
+        public string Cesareas { get; set; }
+    }
 
-
+    private List<Persona> personas = new List<Persona>
+    {
+        new Persona { Nombre = "Jose", Telefono = "457869", CI = "256245521" }
+    };
+}
 
 <!-- <table class="table">
         <thead>
@@ -48,3 +87,5 @@ Welcome to your new app.
         </tbody>
 
 </table>-->
+
+

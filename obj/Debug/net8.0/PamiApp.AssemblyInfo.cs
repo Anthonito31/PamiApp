@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PamiApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+626d00f37c6b46fe89562023bfb97d6d6b336bb9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82f669b8fa83293296460ba9989a0e0e1678e34b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PamiApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PamiApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

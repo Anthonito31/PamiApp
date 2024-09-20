@@ -27,3 +27,8 @@
 /home/appdeveloperx/razor projects/PamiApp/obj/Debug/net8.0/PamiApp.pdb
 /home/appdeveloperx/razor projects/PamiApp/obj/Debug/net8.0/PamiApp.genruntimeconfig.cache
 /home/appdeveloperx/razor projects/PamiApp/obj/Debug/net8.0/ref/PamiApp.dll
+/home/appdeveloperx/razor projects/PamiApp/obj/Debug/net8.0/PamiApp.sourcelink.json
+/home/appdeveloperx/razor projects/PamiApp/bin/Debug/net8.0/Radzen.Blazor.dll
+/home/appdeveloperx/razor projects/PamiApp/bin/Debug/net8.0/System.Linq.Dynamic.Core.dll
+/home/appdeveloperx/razor projects/PamiApp/obj/Debug/net8.0/PamiApp.csproj.AssemblyReference.cache
+/home/appdeveloperx/razor projects/PamiApp/obj/Debug/net8.0/PamiApp.csproj.Up2Date

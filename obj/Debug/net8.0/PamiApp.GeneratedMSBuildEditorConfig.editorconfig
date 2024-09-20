@@ -1,0 +1,95 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PamiApp
+build_property.RootNamespace = PamiApp
+build_property.ProjectDir = /home/appdeveloperx/razor projects/PamiApp/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/appdeveloperx/razor projects/PamiApp
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/appdeveloperx/razor projects/PamiApp/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/appdeveloperx/razor projects/PamiApp/Components/Layout/NavLink.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTmF2TGluay5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/appdeveloperx/razor projects/PamiApp/Components/Pages/Adolescentes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9BZG9sZXNjZW50ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/appdeveloperx/razor projects/PamiApp/Components/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Db3VudGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/appdeveloperx/razor projects/PamiApp/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/appdeveloperx/razor projects/PamiApp/Components/Pages/Escolar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Fc2NvbGFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/appdeveloperx/razor projects/PamiApp/Components/Pages/Gestantes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9HZXN0YW50ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/appdeveloperx/razor projects/PamiApp/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/appdeveloperx/razor projects/PamiApp/Components/Pages/Lactantes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9MYWN0YW50ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/appdeveloperx/razor projects/PamiApp/Components/Pages/Posgestantes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Qb3NnZXN0YW50ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/appdeveloperx/razor projects/PamiApp/Components/Pages/Preescolar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9QcmVlc2NvbGFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/appdeveloperx/razor projects/PamiApp/Components/Pages/Pregestantes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9QcmVnZXN0YW50ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/appdeveloperx/razor projects/PamiApp/Components/Pages/ToogleMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ub29nbGVNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/appdeveloperx/razor projects/PamiApp/Components/Pages/Transicional.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9UcmFuc2ljaW9uYWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/appdeveloperx/razor projects/PamiApp/Components/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9XZWF0aGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/appdeveloperx/razor projects/PamiApp/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Sb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/appdeveloperx/razor projects/PamiApp/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9fSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/appdeveloperx/razor projects/PamiApp/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-tkldtwfrju
+
+[/home/appdeveloperx/razor projects/PamiApp/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-ugkl0qgj4o

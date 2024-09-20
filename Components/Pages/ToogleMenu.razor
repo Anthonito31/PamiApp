@@ -1,0 +1,83 @@
+@page "/toggle-menu"
+@rendermode InteractiveServer
+
+
+<button class="btn-menu" @onclick="ToggleMenu">
+    @if(isMenuVisible){
+        <img src="/icons/close.svg">
+    }else {
+        <img src="/icons/menu.svg">
+    }
+</button>
+
+@if(isMenuVisible){
+    <nav class="nav">
+    
+    <ul>
+        <li class="nav__list">
+            <a href="" class="nav__link">
+                <img src="/icons/home.svg" alt=""> <span> Home</span>
+            </a>
+        </li>
+        <li class="nav__list">
+            <a href="/pregestantes" class="nav__link">
+                <img src="/icons/group.svg" alt=""> <span> Mujeres en Edad Fertil</span>
+            </a>
+        </li>
+
+        <li class="nav__list">
+            <a href="/gestantes" class="nav__link">
+                <img src="/icons/group.svg" alt=""><span> Gestantes</span>
+            </a>
+        </li>
+
+        <li class="nav__list">
+            <a href="/posgestantes" class="nav__link">
+                <img src="/icons/group.svg" alt=""><span> Posgestantes</span>
+            </a>
+        </li>
+
+        <li class="nav__list">
+             <a href="/lactantes" class="nav__link">
+                <img src="/icons/group.svg" alt=""><span> Lactantes</span>
+            </a>
+        </li>
+    
+        <li class="nav__list">
+             <a href="/transicional" class="nav__link">
+                <img src="/icons/group.svg" alt=""><span> Transicional</span>
+            </a>
+        </li>
+
+        <li class="nav__list">
+             <a href="/preescolar" class="nav__link">
+                <img src="/icons/group.svg" alt=""><span> Preescolar</span>
+            </a>
+        </li>
+
+        <li class="nav__list">
+             <a href="/escolar" class="nav__link">
+                <img src="/icons/group.svg" alt=""><span> Escolar</span>
+            </a>
+        </li>
+
+        <li class="nav__list">
+             <a href="/adolescentes" class="nav__link">
+                <img src="/icons/group.svg" alt=""><span> Adolescentes</span>
+            </a>
+        </li>
+
+    </ul>
+
+    </nav>
+ }   
+
+
+@code {
+    private bool isMenuVisible = false;
+
+    private void ToggleMenu(){
+        isMenuVisible = !isMenuVisible ;
+    }
+   
+}

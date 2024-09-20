@@ -1,0 +1,125 @@
+{
+  "Files": [
+    {
+      "Id": "/home/appdeveloperx/razor projects/PamiApp/obj/Debug/net8.0/scopedcss/projectbundle/PamiApp.bundle.scp.css",
+      "PackagePath": "staticwebassets/PamiApp.bundle.scp.css"
+    },
+    {
+      "Id": "/home/appdeveloperx/razor projects/PamiApp/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/home/appdeveloperx/razor projects/PamiApp/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/appdeveloperx/razor projects/PamiApp/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/appdeveloperx/razor projects/PamiApp/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/appdeveloperx/razor projects/PamiApp/wwwroot/icons/add_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg",
+      "PackagePath": "staticwebassets/icons/add_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg"
+    },
+    {
+      "Id": "/home/appdeveloperx/razor projects/PamiApp/wwwroot/icons/close.svg",
+      "PackagePath": "staticwebassets/icons/close.svg"
+    },
+    {
+      "Id": "/home/appdeveloperx/razor projects/PamiApp/wwwroot/icons/delete_forever_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg",
+      "PackagePath": "staticwebassets/icons/delete_forever_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg"
+    },
+    {
+      "Id": "/home/appdeveloperx/razor projects/PamiApp/wwwroot/icons/download_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg",
+      "PackagePath": "staticwebassets/icons/download_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg"
+    },
+    {
+      "Id": "/home/appdeveloperx/razor projects/PamiApp/wwwroot/icons/download_done_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg",
+      "PackagePath": "staticwebassets/icons/download_done_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg"
+    },
+    {
+      "Id": "/home/appdeveloperx/razor projects/PamiApp/wwwroot/icons/group.svg",
+      "PackagePath": "staticwebassets/icons/group.svg"
+    },
+    {
+      "Id": "/home/appdeveloperx/razor projects/PamiApp/wwwroot/icons/home.svg",
+      "PackagePath": "staticwebassets/icons/home.svg"
+    },
+    {
+      "Id": "/home/appdeveloperx/razor projects/PamiApp/wwwroot/icons/login_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg",
+      "PackagePath": "staticwebassets/icons/login_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg"
+    },
+    {
+      "Id": "/home/appdeveloperx/razor projects/PamiApp/wwwroot/icons/menu.svg",
+      "PackagePath": "staticwebassets/icons/menu.svg"
+    },
+    {
+      "Id": "/home/appdeveloperx/razor projects/PamiApp/wwwroot/icons/menu_open_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg",
+      "PackagePath": "staticwebassets/icons/menu_open_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg"
+    },
+    {
+      "Id": "/home/appdeveloperx/razor projects/PamiApp/wwwroot/icons/person_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg",
+      "PackagePath": "staticwebassets/icons/person_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg"
+    },
+    {
+      "Id": "/home/appdeveloperx/razor projects/PamiApp/wwwroot/icons/person_add_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg",
+      "PackagePath": "staticwebassets/icons/person_add_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg"
+    },
+    {
+      "Id": "/home/appdeveloperx/razor projects/PamiApp/wwwroot/icons/person_remove_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg",
+      "PackagePath": "staticwebassets/icons/person_remove_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg"
+    },
+    {
+      "Id": "/home/appdeveloperx/razor projects/PamiApp/wwwroot/icons/public_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg",
+      "PackagePath": "staticwebassets/icons/public_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg"
+    },
+    {
+      "Id": "/home/appdeveloperx/razor projects/PamiApp/wwwroot/icons/remove_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg",
+      "PackagePath": "staticwebassets/icons/remove_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg"
+    },
+    {
+      "Id": "/home/appdeveloperx/razor projects/PamiApp/wwwroot/icons/search_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg",
+      "PackagePath": "staticwebassets/icons/search_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg"
+    },
+    {
+      "Id": "/home/appdeveloperx/razor projects/PamiApp/wwwroot/icons/settings_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg",
+      "PackagePath": "staticwebassets/icons/settings_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg"
+    },
+    {
+      "Id": "/home/appdeveloperx/razor projects/PamiApp/wwwroot/icons/settings_applications_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg",
+      "PackagePath": "staticwebassets/icons/settings_applications_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg"
+    },
+    {
+      "Id": "/home/appdeveloperx/razor projects/PamiApp/wwwroot/icons/share_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg",
+      "PackagePath": "staticwebassets/icons/share_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg"
+    },
+    {
+      "Id": "/home/appdeveloperx/razor projects/PamiApp/wwwroot/icons/upload_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg",
+      "PackagePath": "staticwebassets/icons/upload_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg"
+    },
+    {
+      "Id": "/home/appdeveloperx/razor projects/PamiApp/wwwroot/pami.png",
+      "PackagePath": "staticwebassets/pami.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.PamiApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.PamiApp.props",
+      "PackagePath": "build\\PamiApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.PamiApp.props",
+      "PackagePath": "buildMultiTargeting\\PamiApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.PamiApp.props",
+      "PackagePath": "buildTransitive\\PamiApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
